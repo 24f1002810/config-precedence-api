@@ -1,0 +1,2 @@
+workers: 13
+log_level: error
